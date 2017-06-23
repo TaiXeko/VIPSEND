@@ -1,0 +1,20 @@
+name: VIPSEND_EKKO
+author: EkkoVN
+main: EkkoVN\VIPSEND\Main
+version: 2.0.0
+api: [3.0.0]
+commands:
+    vip:
+        usage: /vip
+        description:Vip Info
+    info:
+        usage: /info
+        description: Info
+    rules:
+        usage: /rules
+        description: Rules
+    staff:
+        usage: /stafflatency
+        description: Staff
+    ping:
+        description: pings
